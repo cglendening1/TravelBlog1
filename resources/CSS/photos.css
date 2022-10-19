@@ -1,0 +1,9 @@
+.mainContent{
+    background-color: black;
+
+}
+
+.mainContent h1{
+    color: white;
+    padding: 300px 0 500px 0;
+}
