@@ -1,0 +1,32 @@
+.countries img {
+    width: 50%;
+    height: 50%;
+}
+
+.countries h1{
+    padding-top: 100px;
+    font-size: 5rem;
+    padding-bottom: :.1rem;
+}
+
+.countries h2{
+    font-size: 3rem;
+}
+.countries{
+}
+
+.argentina{
+    background-color: rgb(86, 209, 135,50%);
+}
+
+.chile{
+    background-color: rgb(56, 181, 106,50%);
+}
+
+.peru{
+    background-color: rgb(38, 158, 58,50%);
+}
+
+.colombia{
+    background-color: rgb(14, 102, 29,50%);
+}
